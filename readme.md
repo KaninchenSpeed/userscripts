@@ -1,5 +1,5 @@
-### Censore.user.js
+# Censore.user.js
 
 A userscript to censore custom defined words
 
-# Edit words and config in Censore.user.js
+### Edit words and config in Censore.user.js

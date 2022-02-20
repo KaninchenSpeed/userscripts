@@ -8,7 +8,7 @@ A userscript to censore custom defined words
 tested with [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
 
 ## installation
-1. if youre using firefox install the addon [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) (linked in readme) if youre using chrome or other browsers install the addon Tampermonkey
+1. if youre using firefox install the addon [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) if youre using chrome or other browsers install the addon Tampermonkey
 2. download the repository
     1. click the code button
     2. click download zip

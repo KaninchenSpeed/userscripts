@@ -1,16 +1,26 @@
-# Censore.user.js
-
-A userscript to censore custom defined words
-
-### Edit words and config in Censore.user.js
-### This script might break some websites
-
-tested with [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
+# My Userscripts
 
 ## installation
-1. if youre using firefox install the addon [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) if youre using chrome or other browsers install the addon Tampermonkey
-2. download the repository
-    1. click the code button
-    2. click download zip
-3. unzip the zip
-4. drag the Censor.user.js into your browser and click ok
+1. Install a Userscript addon
+
+> Browser        | Addon
+> -------------- | -------------------------------------------------------------------------
+> Firefox        | [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
+> other browsers | [Tampermonkey](https://www.tampermonkey.net/)
+
+2. Click on the install link of the script 
+
+> ### Downloads
+>
+> ` ` | ` ` | ` `
+> --- | --- | ---
+> [censor.js]() | A userscript to censore custom defined words                  | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/Censor.user.js)
+> [FstPlayer]() | A userscript to always controll the first video on a page     | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/FstPlayer/FstPlayer.user.js)
+
+
+<br>
+
+## Censore.user.js
+**This script might break some websites**
+
+### coming soon

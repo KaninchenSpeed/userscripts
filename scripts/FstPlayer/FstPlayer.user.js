@@ -6,7 +6,11 @@
 // @version 1.0
 // ==/UserScript==
 
+// Settings
+
 const disable_when_focus_on_video = true;
+
+// Settings end
 
 window.addEventListener('keydown', e => {
 	if (e.key === ' ') {

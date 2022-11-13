@@ -12,10 +12,10 @@
 
 > ### Downloads
 >
-> ` ` | ` ` | ` `
-> --- | --- | ---
-> [censor.js](#Censore.user.js) | A userscript to censore custom defined words | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/Censor.user.js)
-> [FstPlayer](#FstPlayer) | A userscript to always controll the first video on a page | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/FstPlayer/FstPlayer.user.js)
+> name                          | description                                               | install
+> ----------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------
+> [censor.js](#Censore.user.js) | A userscript to censore custom defined words              | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/Censor.user.js)
+> [FstPlayer](#FstPlayer)       | A userscript to always controll the first video on a page | [install](https://raw.githubusercontent.com/KaninchenSpeed/userscripts/master/scripts/FstPlayer/FstPlayer.user.js)
 
 
 <br>
